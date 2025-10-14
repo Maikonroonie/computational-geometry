@@ -1,2 +1,1 @@
-# geometric-algorithms
-CS course projects from AGH – Geometric Algorithms
+This repository contains university projects and exercises focused on geometric algorithms. It includes implementations of various algorithms and data structures used in computational geometry, providing practical examples to enhance understanding and programming skills.
